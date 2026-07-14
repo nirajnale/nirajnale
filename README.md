@@ -12,7 +12,7 @@ B.Tech in Robotics & Automation, MIT World Peace University (2026).
 
 ## Work
 
-**LinkedIn Outreach Automation Platform** *(publishing soon)*
+**LinkedIn Outreach Automation Platform**
 Production backend platform built during my internship at Omniagentic AI.
 A PostgreSQL-backed state machine manages a 10-stage outreach campaign lifecycle
 across eight independent Python service modules — lead ingestion, invitation
